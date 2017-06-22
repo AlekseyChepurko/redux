@@ -1,0 +1,7 @@
+/**
+ * Created by Алексей on 20.06.2017.
+ */
+{
+    "presets": ["es2015" , "react"],
+    "plugins": ["transform-object-rest-spread"]
+}
